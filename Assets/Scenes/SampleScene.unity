@@ -216,7 +216,7 @@ VideoPlayer:
   - {fileID: 0}
   m_DirectAudioVolumes:
   - 1
-  m_Url: https://www.bernardi.cloud/school/franallen/intro.ogv
+  m_Url: https://www.bernardi.cloud/school/franallen/Introduzione.mp4
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
@@ -2312,7 +2312,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &755234399
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2632,7 +2632,7 @@ VideoPlayer:
   - {fileID: 0}
   m_DirectAudioVolumes:
   - 1
-  m_Url: https://www.bernardi.cloud/school/franallen/job.ogv
+  m_Url: https://www.bernardi.cloud/school/franallen/Lavoro.mp4
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
@@ -5562,7 +5562,7 @@ VideoPlayer:
   - {fileID: 0}
   m_DirectAudioVolumes:
   - 1
-  m_Url: https://www.bernardi.cloud/school/franallen/bio.ogv
+  m_Url: https://www.bernardi.cloud/school/franallen/Biografia.mp4
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
